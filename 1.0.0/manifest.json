@@ -1,7 +1,7 @@
 {
     "name": "Spadesuits",
     "version_number": "1.0.0",
-    "website_url": "https://github.com/JCaesarsge/Spade-suits",
+    "website_url": "https://github.com/JCaesarsge/SpadeSuits",
     "description": "Adds one more suit, thank you x753 for more suits!",
     "dependencies": [
         "BepInEx-BepInExPack-5.4.2100"
